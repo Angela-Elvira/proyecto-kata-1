@@ -1,6 +1,7 @@
 body{
     margin: 0;
-   font-family: 'Montserrat', sans-serif;;
+   font-family: 'Montserrat', sans-serif;
+   background-color: #C6EFA6;
 }
 header{
    width: 100%;
@@ -32,10 +33,28 @@ header label:hover{
 .menu li:hover{
     background: rgba(0,0,0,0.3) ;
 }
+
 .menu li a {
 display: block;
 padding: 15px 20px;
 color: #fff;
 text-decoration: none;
+}
 
+main{
+    padding: 25px;
+}
+
+.angie{
+    background-color: #ffb703;
+    content: 500px;
+    margin: 50px 50px 50px 50px;
+    padding: 50px 50px 50px 50px;
+    border-radius: 50%;
+    width: 200px
+}
+
+
+footer{
+align-items: center;
 }

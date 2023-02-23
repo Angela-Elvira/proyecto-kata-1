@@ -47,11 +47,11 @@ main{
 
 .angie{
     background-color: #ffb703;
-    content: 500px;
-    margin: 50px 50px 50px 50px;
-    padding: 50px 50px 50px 50px;
-    border-radius: 50%;
-    width: 200px
+}
+
+.gie{
+    border-radius: 50px;
+    width: 500px;
 }
 
 
